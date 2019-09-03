@@ -24,7 +24,7 @@ $$\tau_{xy} = \mu (\frac{\partial u}{\partial y} + \frac{\partial v}{\partial x}
 
 $$\tau_{xx} = \lambda(\bigtriangledown  \cdot \pmb V) + 2\mu \frac{\partial u}{\partial x}$$
 
-$$\tau_{yy} = \lambda(\bigtriangledown  \cdot \bm V) + 2\mu \frac{\partial v}{\partial y}$$
+$$\tau_{yy} = \lambda(\bigtriangledown  \cdot \pmb V) + 2\mu \frac{\partial v}{\partial y}$$
 
 where we can use $\lambda = -2/3\mu$.
 
