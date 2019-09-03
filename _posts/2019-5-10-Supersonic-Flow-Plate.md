@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flat Plate under Supersonic Flow
-visible: 0
+visible: 1
 ---
 
 ## Two Dimensional Complete Navier-Stokes equations

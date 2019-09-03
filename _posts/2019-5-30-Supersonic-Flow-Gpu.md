@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nozzle Supersonic Flow with GPU
-visible: 0
+visible: 1
 ---
 
 
