@@ -86,3 +86,5 @@ exclude:
   - CNAME
 
 highlighter: rouge
+
+theme: jekyll-theme-minimal
