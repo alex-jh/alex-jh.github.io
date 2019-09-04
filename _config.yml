@@ -87,4 +87,4 @@ exclude:
 
 highlighter: rouge
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
